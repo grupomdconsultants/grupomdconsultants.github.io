@@ -1,0 +1,34 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_menu-asesoria-legal.css" crc="34455037" ref="contacto-asesoría-legal:servicios-asesoría-legal:inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal"/>
+    <file name="master_a-p_gina-maestra.css" crc="337125412" ref="index:contacto-asesoría-legal:servicios-asesoría-legal:contacto-obra-civil:inicio-asesoría-legal:enlaces-obra-civil:inicio-obra-civil:servicios-obra-civil:enlaces-y-leyes-asesoría-legal"/>
+    <file name="master_menu-obra-civil.css" crc="287326425" ref="contacto-obra-civil:enlaces-obra-civil:inicio-obra-civil:servicios-obra-civil"/>
+    <file name="index.css" crc="3970072158" ref="index"/>
+    <file name="contacto-asesor_a-legal.css" crc="196477801" ref="contacto-asesoría-legal"/>
+    <file name="servicios-asesor_a-legal.css" crc="437072063" ref="servicios-asesoría-legal"/>
+    <file name="contacto-obra-civil.css" crc="3802226277" ref="contacto-obra-civil"/>
+    <file name="inicio-asesor_a-legal.css" crc="155181138" ref="inicio-asesoría-legal"/>
+    <file name="enlaces-obra-civil.css" crc="3993518092" ref="enlaces-obra-civil"/>
+    <file name="inicio-obra-civil.css" crc="4128957195" ref="inicio-obra-civil"/>
+    <file name="servicios-obra-civil.css" crc="4057179601" ref="servicios-obra-civil"/>
+    <file name="enlaces-y-leyes-asesor_a-legal.css" crc="4036260164" ref="enlaces-y-leyes-asesoría-legal"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal:servicios-asesoría-legal:inicio-obra-civil:servicios-obra-civil:enlaces-obra-civil:contacto-asesoría-legal:contacto-obra-civil"/>
+    <file name="museutils.js" crc="4291592202" ref="index:inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal:servicios-asesoría-legal:inicio-obra-civil:servicios-obra-civil:enlaces-obra-civil:contacto-asesoría-legal:contacto-obra-civil"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal:servicios-asesoría-legal:inicio-obra-civil:servicios-obra-civil:enlaces-obra-civil:contacto-asesoría-legal:contacto-obra-civil"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal:servicios-asesoría-legal:inicio-obra-civil:servicios-obra-civil:enlaces-obra-civil:contacto-asesoría-legal:contacto-obra-civil"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="inicio-asesoría-legal:enlaces-y-leyes-asesoría-legal:servicios-asesoría-legal:inicio-obra-civil:servicios-obra-civil:enlaces-obra-civil:contacto-asesoría-legal:contacto-obra-civil"/>
+  </folder>
+  <file name="index.html" crc="423227132" mt="1418502170576" redirect="true"/>
+  <file name="inicio-asesoría-legal.html" crc="235654482" mt="1418502170601" redirect="true"/>
+  <file name="enlaces-y-leyes-asesoría-legal.html" crc="4089295393" mt="1418502170603" redirect="true"/>
+  <file name="servicios-asesoría-legal.html" crc="227614500" mt="1418502170606" redirect="true"/>
+  <file name="inicio-obra-civil.html" crc="3887055201" mt="1418502170613" redirect="true"/>
+  <file name="servicios-obra-civil.html" crc="4008915015" mt="1418502170615" redirect="true"/>
+  <file name="enlaces-obra-civil.html" crc="113811760" mt="1418502170617" redirect="true"/>
+  <file name="contacto-asesoría-legal.html" crc="257176507" mt="1418502170609" redirect="true"/>
+  <file name="contacto-obra-civil.html" crc="3985924404" mt="1418502170619" redirect="true"/>
+</manifest>
